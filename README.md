@@ -1,2 +1,2 @@
-# PenguinMod-Home
-The main home page for PenguinMod, which has community-made projects and other content.
+# GubbyMod-Home
+The main home page for GubbyMod, where you move 11 steps instead of 10 steps.
